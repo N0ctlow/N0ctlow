@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00d4ff&height=180&section=header&text=GBZ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=N0ctlow&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Técnico+de+TI+%26+NOC+🖥️;Dev+Back-end+e+Front-end+💻;Designer+nas+horas+vagas+🎨;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
+<h3>🖥️ Técnico de TI &amp; NOC &nbsp;|&nbsp; 💻 Dev Back-end &amp; Front-end &nbsp;|&nbsp; 🎨 Designer</h3>
 
 </div>
 
@@ -49,7 +49,6 @@ const gbz = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=N0ctlow&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=N0ctlow&theme=tokyonight&hide_border=true&locale=pt_br"/>
 
 </div>
