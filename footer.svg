@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="3" fill="#000" opacity="0.18"/></pattern>
+    <style>
+      .bob { animation: bob 2.4s ease-in-out infinite; }
+      .bob2 { animation: bob 3.1s ease-in-out infinite reverse; }
+      @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    </style>
+  </defs>
+  <rect width="1200" height="90" fill="#00e1ff"/>
+  <polygon points="0,0 260,0 200,90 0,90" fill="#ff2e88"/>
+  <polygon points="260,0 330,0 270,90 200,90" fill="#ffe500"/>
+  <polygon points="880,0 950,0 1010,90 940,90" fill="#7cff00"/>
+  <polygon points="950,0 1200,0 1200,90 1010,90" fill="#ff7a00"/>
+  <rect width="1200" height="90" fill="url(#dots)"/>
+  <path d="M380 48 q20 -28 40 0 t40 0 t40 0 t40 0" fill="none" stroke="#000" stroke-width="6" stroke-linecap="round"/>
+  <g class="bob"><circle cx="110" cy="45" r="16" fill="#ffe500" stroke="#000" stroke-width="5"/></g>
+  <g class="bob2"><rect x="1080" y="28" width="34" height="34" fill="#7b2dff" stroke="#000" stroke-width="5" transform="rotate(15 1097 45)"/></g>
+  <text x="760" y="56" font-family="Courier New, monospace" font-size="24" font-weight="700" text-anchor="middle" fill="#000">valeu pela visita ;)</text>
+</svg>
