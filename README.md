@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00d4ff&height=180&section=header&text=GBZ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=N0ctlow&descAlignY=58&descSize=18" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <h3>🖥️ Técnico de TI &amp; NOC &nbsp;|&nbsp; 💻 Dev Back-end &amp; Front-end &nbsp;|&nbsp; 🎨 Designer</h3>
 
@@ -57,8 +57,8 @@ const gbz = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=N0ctlow&color=1f6feb&style=for-the-badge&label=VISITAS" alt="visitas"/>
+<img src="https://komarev.com/ghpvc/?username=N0ctlow&color=ff2e88&style=for-the-badge&label=VISITAS" alt="visitas"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1f6feb,100:0d1117&height=110&section=footer" width="100%"/>
+<img src="./footer.svg" width="100%"/>
 
 </div>
