@@ -68,10 +68,12 @@ const gbz = {
 <tr>
 <td width="50%" valign="top">
 
-#### ⚡ Optimizer GBZ
-Painel de otimização de PC para Windows com visual gamer estilo Cyber HUD: menos lag na internet e no input, ajuste de cores da tela, controle de LED RGB e atalhos pra Discord e Spotify.
+#### ⚡ [Optimizer GBZ](https://github.com/N0ctlow/Optimizer-GBZ)
+Painel de otimização gamer para Windows 10 e 11 com visual Cyber HUD: Modo Gamer, menos lag na internet e no input, cores da tela, LED RGB e player do Spotify.
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-FF2E88?style=flat-square)
+![Beta](https://img.shields.io/badge/beta-v0.1.0-FF2E88?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-WPF-7B2DFF?style=flat-square&logo=powershell&logoColor=white)
+
+[📂 Ver projeto](https://github.com/N0ctlow/Optimizer-GBZ) · [⬇️ Baixar](https://github.com/N0ctlow/Optimizer-GBZ/releases)
 
 </td>
 <td width="50%" valign="top" align="center">
